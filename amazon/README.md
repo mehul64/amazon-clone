@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Hosting URL
+
+https://clone-92dfb.web.app/
+
 ## Dependencies
 
 Refer used dependencies from package.json in order to install them before building the project.
