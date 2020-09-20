@@ -1,12 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencies
+
+Refer used dependencies from package.json in order to install them before building the project.
+
 ## Available Scripts
 
 In the project directory, you can run:
-
-## Dependencies
-
-Refer used dependencies from package.json in order to install them before building the prohect
 
 ### `npm start`
 
